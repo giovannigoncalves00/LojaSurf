@@ -1,0 +1,31 @@
+#banner {
+	width: 750px;
+	height: 150px;
+	background-image: url("imagens\banner2.jpg");
+}
+
+#menu{
+	
+	width: 201px;
+	height: 635px;
+	float: left;
+	background-image:url("imagens\Poseidonlogo.jpg");
+}
+
+#conteudo {
+	
+	width: 549px;
+	height: 635px;
+	padding: 15px;
+	float: left;
+	background-image:url("imagens\info_empresa2.jpg");
+	
+}
+
+#rodape {
+
+	width: 750px;
+	height: 50px;	
+	background-image: url("imagens\rodape2.jpg");
+	
+}

@@ -1,0 +1,21 @@
+#menu{
+	text-align: left;
+	font-family: Times New Roman;
+	color: #006;
+	font-size:medium;
+	font-weight:bold;
+    
+	}
+#conteudo {
+	text-align: center;
+	font-family: Times New Roman;
+	color: white;
+	font-size:small;
+	font-weight:bold;
+}
+#rodape {
+	
+}
+A:link {text-decoration:none;color:#006;}
+A:visited {text-decoration:none;color:#006;} 
+A:hover {text-decoration:underline;color:#000;} 
